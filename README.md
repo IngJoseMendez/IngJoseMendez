@@ -8,7 +8,7 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,react,js,html,css,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,html,css,git,github,docker)](https://skillicons.dev)
 
 ## Top Projects
 
