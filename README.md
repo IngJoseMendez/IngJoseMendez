@@ -13,7 +13,7 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 ## Top Projects
 
 - [Sistema-gesti-n-Vitalexa](https://github.com/IngJoseMendez/Sistema-gesti-n-Vitalexa)  
-  A Java-based system for managing various processes.  
+  Inventory & sales management system built with Spring Security + JWT, real-time features via WebSocket, and containerized deployment with Docker
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [Asistencias](https://github.com/IngJoseMendez/Asistencias)  
