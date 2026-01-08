@@ -50,7 +50,3 @@ complete management system for medical office
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts to share, but stay tuned for updates!
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
