@@ -1,4 +1,4 @@
-## Hi there! 👋
+`## Hi there! 👋
 
 I'm **Jose Mendez**, an aspiring Software Engineer and a passionate systems engineering student. I enjoy creating innovative solutions and exploring the endless possibilities of technology.
 
@@ -8,7 +8,7 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 
 ## Skills & Technologies
 
-java,postgres,mysql,spring,py
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,react,js,html,css,git,github,docker)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -50,3 +50,4 @@ java,postgres,mysql,spring,py
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts to share, but stay tuned for updates!
+`
