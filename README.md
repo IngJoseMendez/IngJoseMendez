@@ -25,7 +25,7 @@ java,postgres,mysql,spring,py
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [LibrosJose](https://github.com/IngJoseMendez/LibrosJose)  
-  A personal web portfolio showcasing skills and projects.  
+  book exchange API - app for book store
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 
