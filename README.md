@@ -21,8 +21,8 @@ java,postgres,mysql,spring,py
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [medical-oficce-management](https://github.com/IngJoseMendez/Medical_office_management)
-complete management system for medical office
-⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
+  complete management system for medical office
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [portafolio](https://github.com/IngJoseMendez/portafolio)  
   A personal web portfolio showcasing skills and projects.  
