@@ -14,14 +14,14 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 
 - [Sistema-gesti-n-Vitalexa](https://github.com/IngJoseMendez/Sistema-gesti-n-Vitalexa)  
   Inventory & sales management system built with Spring Security + JWT, real-time features via WebSocket, and containerized deployment with Docker
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues
+
+  - [medical-oficce-management](https://github.com/IngJoseMendez/Medical_office_management)
+  complete management system for medical office
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [Asistencias](https://github.com/IngJoseMendez/Asistencias)  
   A platform for attendance management using QR codes.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
-
-- [medical-oficce-management](https://github.com/IngJoseMendez/Medical_office_management)
-  complete management system for medical office
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
 - [LibrosJose](https://github.com/IngJoseMendez/LibrosJose)  
