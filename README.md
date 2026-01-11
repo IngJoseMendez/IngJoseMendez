@@ -16,7 +16,7 @@ I am currently studying **Systems Engineering**. My journey in technology starte
   Inventory & sales management system built with Spring Security + JWT, real-time features via WebSocket, and containerized deployment with Docker
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues
 
-  - [medical-oficce-management](https://github.com/IngJoseMendez/Medical_office_management)
+- [medical-oficce-management](https://github.com/IngJoseMendez/Medical_office_management)
   complete management system for medical office
   ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
