@@ -12,7 +12,7 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 
 # portfolio
 
--[portfolio] (https://portafolio-two-iota-97.vercel.app/))
+- [portfolio](https://portafolio-two-iota-97.vercel.app/))
 
 ## Top Projects
 
