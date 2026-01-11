@@ -10,6 +10,10 @@ I am currently studying **Systems Engineering**. My journey in technology starte
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,html,css,git,github,docker)](https://skillicons.dev)
 
+# portfolio
+
+-[portfolio] (https://portafolio-two-iota-97.vercel.app/))
+
 ## Top Projects
 
 - [Sistema-gesti-n-Vitalexa](https://github.com/IngJoseMendez/Sistema-gesti-n-Vitalexa)  
